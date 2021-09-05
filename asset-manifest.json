@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/padelbro/static/css/main.a617e044.chunk.css",
+    "main.js": "/padelbro/static/js/main.893d60e2.chunk.js",
+    "main.js.map": "/padelbro/static/js/main.893d60e2.chunk.js.map",
+    "runtime-main.js": "/padelbro/static/js/runtime-main.e32d7376.js",
+    "runtime-main.js.map": "/padelbro/static/js/runtime-main.e32d7376.js.map",
+    "static/js/2.4870857e.chunk.js": "/padelbro/static/js/2.4870857e.chunk.js",
+    "static/js/2.4870857e.chunk.js.map": "/padelbro/static/js/2.4870857e.chunk.js.map",
+    "static/js/3.1a5e3fcf.chunk.js": "/padelbro/static/js/3.1a5e3fcf.chunk.js",
+    "static/js/3.1a5e3fcf.chunk.js.map": "/padelbro/static/js/3.1a5e3fcf.chunk.js.map",
+    "index.html": "/padelbro/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/padelbro/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4870857e.chunk.js.LICENSE.txt": "/padelbro/static/js/2.4870857e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/padelbro/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e32d7376.js",
+    "static/js/2.4870857e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.893d60e2.chunk.js"
+  ]
+}
